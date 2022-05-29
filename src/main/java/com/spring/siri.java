@@ -1,9 +1,8 @@
 package com.spring;
 
-public class ui {
+public class siri {
 	public static void main(String args[]) {
 		System.out.println("Hi Hello");
-		System.out.println("This is ui");
-		System.out.println("This is UI");
+		System.out.println("This is Gopi");
 	}
 }
